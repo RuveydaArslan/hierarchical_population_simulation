@@ -19,3 +19,5 @@ org.eclipse.jdt.apt.core/
 
 # OS
 desktop.ini
+
+*.pdf
