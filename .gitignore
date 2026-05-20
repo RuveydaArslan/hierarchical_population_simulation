@@ -8,9 +8,14 @@ bin/
 dist/
 *.class
 
+# Eclipse cache
+.indexes/
+.location
+.markers
+.markers.snap
+.syncinfo.snap
+org.eclipse.jdt.core/
+org.eclipse.jdt.apt.core/
+
 # OS
 desktop.ini
-
-# Eclipse cache
-org.eclipse.jdt.core
-org.eclipse.jdt.apt.core
