@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build
+bin/
+dist/
+*.class
+
+# OS
+desktop.ini
+
+# Eclipse cache
+org.eclipse.jdt.core
+org.eclipse.jdt.apt.core
