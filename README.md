@@ -54,7 +54,6 @@ JavaOdev1/
 | 🎲 Java Faker | Rastgele gerçekçi veri üretimi |
 | 🧠 OOP | Nesne yönelimli programlama |
 | 📋 ArrayList | Dinamik veri yönetimi |
-| 📂 FileWriter | Dosya yazma işlemleri |
 
 ---
 
@@ -85,7 +84,6 @@ Projede şehir yapıları arasında hiyerarşik ilişki kurulmuştur.
    - 📈 Nüfus artışı gerçekleşir
    - 👶➡️🧓 Yaş bilgileri güncellenir
    - 🏘️ Yeni yerleşimler oluşabilir
-5. Üretilen veriler `.txt` dosyalarına yazdırılır.
 
 ---
 
@@ -104,7 +102,6 @@ Projede şehir yapıları arasında hiyerarşik ilişki kurulmuştur.
 
 - Nesne yönelimli programlama (OOP)
 - ArrayList kullanımı
-- Dosya yazma işlemleri
 - Modüler programlama
 - Simülasyon sistemleri
 - Veri modelleme
